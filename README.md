@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Jiateng (Elliot)
-- 💯 Always a modest learning of everything.
+-  Master of 💵 Quantitattive & Computational Finance || 🖥️ Computational Science & Engineering at GaTech
+- 💯 Always a modest learner of everything.
 - 👀 I’m interested in ML, NLP, Quant... 
 
 
