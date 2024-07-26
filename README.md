@@ -1,7 +1,8 @@
 - 👋 Hi, I’m Jiateng (Elliot)
 -  Master of 💵 Quantitattive & Computational Finance || 🖥️ Computational Science & Engineering at GaTech
 - 💯 Always a modest learner of everything.
-- 👀 I’m interested in ML, NLP, Quant... 
+- 👀 I’m interested in ML, NLP, Quant...
+- My expertise lies in developing advanced futures and options pricing models, focusing on risk factor construction, moment matching, and volatility surface building using LSSVI/RSVI models.
 
 
 <!---
